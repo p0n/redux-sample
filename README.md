@@ -9,6 +9,6 @@
   yarn add prop-types --dev
   ```
 - Use PropTypes instead of React.PropTypes
-  ```
+  ```javascript
   import PropTypes from 'prop-types';
   ```
